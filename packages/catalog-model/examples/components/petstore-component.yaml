@@ -11,7 +11,7 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: frankfarzan
+  owner: team-awesome
   providesApis:
     - petstore
     - streetlights
